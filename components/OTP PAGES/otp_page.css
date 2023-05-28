@@ -23,7 +23,7 @@ body {
 }
 
 .container a {
-  color: rgb(244, 51, 151);
+  color: #800080;
   text-transform: uppercase;
   text-decoration: none;
   text-align: center;
@@ -63,7 +63,7 @@ button {
   letter-spacing: 2px;
   cursor: pointer;
   color: white;
-  background-color: rgb(244, 51, 151);
+  background-color:#800080;
 }
 
 @media screen and (max-width: 434px) {
